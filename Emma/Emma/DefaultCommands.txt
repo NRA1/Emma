@@ -1,0 +1,9 @@
+﻿Hello
+How are you
+What time is it
+Stop talking
+Stop listening
+Exit
+Maximize
+Show commands
+Hide commands

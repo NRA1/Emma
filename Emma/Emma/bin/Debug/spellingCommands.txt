@@ -1,0 +1,8 @@
+Quit spelling mode
+new line
+Enter
+dot
+space
+comma
+question mark
+backspace

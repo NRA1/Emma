@@ -1,0 +1,12 @@
+﻿Hello
+What's your name
+What's my name
+Change my name
+How are you
+What time is it
+Stop talking
+Stop listening
+Show commands
+Hide commands
+Enter dictation mode
+Close program

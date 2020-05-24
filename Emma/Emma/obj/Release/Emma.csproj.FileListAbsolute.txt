@@ -1,0 +1,10 @@
+R:\Emma\Emma\bin\Release\Emma.exe.config
+R:\Emma\Emma\bin\Release\Emma.exe
+R:\Emma\Emma\bin\Release\Emma.pdb
+R:\Emma\Emma\obj\Release\Emma.Emma.resources
+R:\Emma\Emma\obj\Release\Emma.Properties.Resources.resources
+R:\Emma\Emma\obj\Release\Emma.csproj.GenerateResource.cache
+R:\Emma\Emma\obj\Release\Emma.csproj.CoreCompileInputs.cache
+R:\Emma\Emma\obj\Release\Emma.exe
+R:\Emma\Emma\obj\Release\Emma.pdb
+R:\Emma\Emma\obj\Release\Emma.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+Quit dictation mode
+Stop listening
+spelling mode
+new line
+Enter
+dot
+space
+comma
+question mark
+Show commands
+Hide commands
+Close program
