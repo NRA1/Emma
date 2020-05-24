@@ -1,0 +1,2 @@
+# Emma
+Lightweight speech assistant
