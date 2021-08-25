@@ -1,6 +1,2 @@
 # Emma
-Lightweight speech assistant
-
-Curently works only on Windows
-
-.NetFramework 4.7.2 is required!!
+Speech assistant using .NETFramework 4.7.2
